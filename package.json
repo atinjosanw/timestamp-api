@@ -2,7 +2,7 @@
   "name": "timestamp-api",
   "version": "1.0.0",
   "description": "Timestamp microservice retrieves both unix time and the time in natural language",
-  "main": "index.js",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/atinjosanw/timestamp-api.git"
