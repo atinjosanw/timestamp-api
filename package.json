@@ -13,7 +13,7 @@
     "javascript",
   ],
   "scripts": {
-  "start": "node index.js"
+  "start": "node server.js"
   },
   "author": "Yating Wang",
   "license": "MIT",
