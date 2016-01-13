@@ -1,6 +1,6 @@
 {
   "name": "timestamp-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Timestamp microservice retrieves both unix time and the time in natural language",
   "main": "server.js",
   "repository": {
@@ -10,7 +10,7 @@
   "keywords": [
     "Express",
     "Node",
-    "javascript",
+    "javascript"
   ],
   "scripts": {
   "start": "node server.js"
@@ -18,6 +18,6 @@
   "author": "Yating Wang <atinjosan@yahoo.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.12.4",
+    "express": "^4.12.4"
   }
 }
