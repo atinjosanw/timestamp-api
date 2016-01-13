@@ -15,7 +15,7 @@
   "scripts": {
   "start": "node server.js"
   },
-  "author": "Yating Wang",
+  "author": "Yating Wang <atinjosan@yahoo.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.12.4",
